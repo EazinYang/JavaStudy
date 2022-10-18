@@ -24,6 +24,25 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaStudy">
       <favorite_root url="superThis" module="JavaStudy" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="homework12.A" module="JavaStudy" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="file://$PROJECT_DIR$/src/homework12" module="JavaStudy" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/A.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/B.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/C.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/D.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Man.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Sub.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Base.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Child.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Exam1.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Exam2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Woman.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Father.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Person.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Test01.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Test02.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/homework12/Teacher.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
     </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -32,6 +51,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Ajr4eN7ygVxRdNG8hkaP661mCU" />
   <component name="ProjectViewState">
@@ -43,19 +65,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.TestMethod">
-    <configuration name="PayrollSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyAbstrack.PayrollSystem" />
+  <component name="RunManager" selected="Application.TestTriangle">
+    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework12.Exam2" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyAbstrack.obj.*" />
+          <option name="PATTERN" value="homework12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyAbstrack.TestAnimal" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework12.Test01" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyAbstrack.obj.*" />
+          <option name="PATTERN" value="homework12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyAbstrack.TestEmployee" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework12.Test02" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyAbstrack.obj.*" />
+          <option name="PATTERN" value="homework12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyAbstrack.obj.TestMethod" />
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework12_03.Test03" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyAbstrack.obj.*" />
+          <option name="PATTERN" value="homework12_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyAbstrack.TestTemplate" />
+    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework12.TestTriangle" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyAbstrack.obj.*" />
+          <option name="PATTERN" value="homework12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMethod" />
-        <item itemvalue="Application.PayrollSystem" />
-        <item itemvalue="Application.TestEmployee" />
-        <item itemvalue="Application.TestTemplate" />
-        <item itemvalue="Application.TestAnimal" />
+        <item itemvalue="Application.TestTriangle" />
+        <item itemvalue="Application.Test03" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Exam2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +225,7 @@
       <workItem from="1665988692666" duration="7104000" />
       <workItem from="1666000753238" duration="15000" />
       <workItem from="1666000865026" duration="15000" />
+      <workItem from="1666078878820" duration="8849000" />
     </task>
     <servers />
   </component>
@@ -209,30 +233,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1665994196961">
+    <state x="0" y="86" key="#Notifications" timestamp="1666080436731">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770@0.0.1280.770" timestamp="1665994196961" />
+    <state x="0" y="86" key="#Notifications/0.0.1280.770@0.0.1280.770" timestamp="1666080436731" />
+    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1666086043272">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770@0.0.1280.770" timestamp="1666086043272" />
     <state x="0" y="87" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1659878533112">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="0" y="87" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1280.770@0.0.1280.770" timestamp="1659878533112" />
-    <state width="638" height="152" key="GridCell.Tab.0.bottom" timestamp="1665999452062">
+    <state width="638" height="142" key="GridCell.Tab.0.bottom" timestamp="1666089040982">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="152" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1665999452062" />
-    <state width="638" height="152" key="GridCell.Tab.0.center" timestamp="1665999452062">
+    <state width="638" height="142" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1666089040982" />
+    <state width="638" height="142" key="GridCell.Tab.0.center" timestamp="1666089040981">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="152" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1665999452062" />
-    <state width="638" height="152" key="GridCell.Tab.0.left" timestamp="1665999452061">
+    <state width="638" height="142" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1666089040981" />
+    <state width="638" height="142" key="GridCell.Tab.0.left" timestamp="1666089040981">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="152" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1665999452061" />
-    <state width="638" height="152" key="GridCell.Tab.0.right" timestamp="1665999452062">
+    <state width="638" height="142" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1666089040981" />
+    <state width="638" height="142" key="GridCell.Tab.0.right" timestamp="1666089040982">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="152" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1665999452062" />
+    <state width="638" height="142" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1666089040982" />
     <state width="668" height="141" key="GridCell.Tab.1.bottom" timestamp="1659695405543">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -249,17 +277,17 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state width="668" height="141" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1659695405543" />
-    <state x="284" y="0" width="996" height="770" key="SettingsEditor" timestamp="1664201521003">
+    <state x="284" y="0" width="996" height="770" key="SettingsEditor" timestamp="1666080460703">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="284" y="0" width="996" height="770" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1664201521003" />
+    <state x="284" y="0" width="996" height="770" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1666080460703" />
     <state x="647" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1666000948677">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="647" y="289" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1666000948677" />
-    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1664026001815">
+    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1666088339645">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1664026001815" />
+    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1666088339645" />
   </component>
 </project>
