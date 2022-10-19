@@ -48,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,13 +73,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.TestTriangle">
-    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework12.Exam2" />
+  <component name="RunManager" selected="Application.TestSun">
+    <configuration name="TestB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework13.TestB" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework12.*" />
+          <option name="PATTERN" value="homework13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework12.Test01" />
+    <configuration name="TestComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestComparable.TestComparable" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework12.*" />
+          <option name="PATTERN" value="TestComparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework12.Test02" />
+    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInterface.TestComparator" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework12.*" />
+          <option name="PATTERN" value="TestInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework12_03.Test03" />
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInterface.TestEmployee" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework12_03.*" />
+          <option name="PATTERN" value="TestInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework12.TestTriangle" />
+    <configuration name="TestSun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework13.TestSun" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework12.*" />
+          <option name="PATTERN" value="homework13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestTriangle" />
-        <item itemvalue="Application.Test03" />
-        <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Exam2" />
+        <item itemvalue="Application.TestSun" />
+        <item itemvalue="Application.TestB" />
+        <item itemvalue="Application.TestEmployee" />
+        <item itemvalue="Application.TestComparable" />
+        <item itemvalue="Application.TestComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +227,8 @@
       <workItem from="1666000753238" duration="15000" />
       <workItem from="1666000865026" duration="15000" />
       <workItem from="1666078878820" duration="8849000" />
+      <workItem from="1666146143780" duration="16001000" />
+      <workItem from="1666173993878" duration="1352000" />
     </task>
     <servers />
   </component>
@@ -237,30 +240,30 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="0" y="86" key="#Notifications/0.0.1280.770@0.0.1280.770" timestamp="1666080436731" />
-    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1666086043272">
+    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1666174565588">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770@0.0.1280.770" timestamp="1666086043272" />
+    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770@0.0.1280.770" timestamp="1666174565588" />
     <state x="0" y="87" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1659878533112">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="0" y="87" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1280.770@0.0.1280.770" timestamp="1659878533112" />
-    <state width="638" height="142" key="GridCell.Tab.0.bottom" timestamp="1666089040982">
+    <state width="638" height="144" key="GridCell.Tab.0.bottom" timestamp="1666175356908">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="142" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1666089040982" />
-    <state width="638" height="142" key="GridCell.Tab.0.center" timestamp="1666089040981">
+    <state width="638" height="144" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1666175356908" />
+    <state width="638" height="144" key="GridCell.Tab.0.center" timestamp="1666175356908">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="142" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1666089040981" />
-    <state width="638" height="142" key="GridCell.Tab.0.left" timestamp="1666089040981">
+    <state width="638" height="144" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1666175356908" />
+    <state width="638" height="144" key="GridCell.Tab.0.left" timestamp="1666175356907">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="142" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1666089040981" />
-    <state width="638" height="142" key="GridCell.Tab.0.right" timestamp="1666089040982">
+    <state width="638" height="144" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1666175356907" />
+    <state width="638" height="144" key="GridCell.Tab.0.right" timestamp="1666175356908">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="142" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1666089040982" />
+    <state width="638" height="144" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1666175356908" />
     <state width="668" height="141" key="GridCell.Tab.1.bottom" timestamp="1659695405543">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -281,13 +284,17 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="284" y="0" width="996" height="770" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1666080460703" />
-    <state x="647" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1666000948677">
+    <state x="647" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1666174328935">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="647" y="289" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1666000948677" />
-    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1666088339645">
+    <state x="647" y="289" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1666174328935" />
+    <state x="678" y="310" width="496" height="365" key="dock-window-1" timestamp="1666166875067">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1666088339645" />
+    <state x="678" y="310" width="496" height="365" key="dock-window-1/0.0.1280.770@0.0.1280.770" timestamp="1666166875067" />
+    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1666166468572">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1666166468572" />
   </component>
 </project>
