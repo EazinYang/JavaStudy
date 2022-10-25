@@ -71,37 +71,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.TestSun">
-    <configuration name="TestB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework13.TestB" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestComparable.TestComparable" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestComparable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestInterface.TestComparator" />
+  <component name="RunManager" selected="Application.TestEmployee">
+    <configuration name="TestBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInterface.TestBody" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestInterface.TestEmployee" />
+      <option name="MAIN_CLASS_NAME" value="NiMing.TestEmployee" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestInterface.*" />
+          <option name="PATTERN" value="NiMing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework13.TestSun" />
+    <configuration name="TestFather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NiMing.TestFather" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework13.*" />
+          <option name="PATTERN" value="NiMing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inter.TestInterface" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLocalInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day14_1.TestLocalInner" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day14_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSun" />
-        <item itemvalue="Application.TestB" />
         <item itemvalue="Application.TestEmployee" />
-        <item itemvalue="Application.TestComparable" />
-        <item itemvalue="Application.TestComparator" />
+        <item itemvalue="Application.TestFather" />
+        <item itemvalue="Application.TestBody" />
+        <item itemvalue="Application.TestInterface" />
+        <item itemvalue="Application.TestLocalInner" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +229,11 @@
       <workItem from="1666078878820" duration="8849000" />
       <workItem from="1666146143780" duration="16001000" />
       <workItem from="1666173993878" duration="1352000" />
+      <workItem from="1666248935544" duration="5883000" />
+      <workItem from="1666421588933" duration="6160000" />
+      <workItem from="1666504830638" duration="4082000" />
+      <workItem from="1666596477397" duration="5096000" />
+      <workItem from="1666687543081" duration="5087000" />
     </task>
     <servers />
   </component>
@@ -240,30 +245,30 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="0" y="86" key="#Notifications/0.0.1280.770@0.0.1280.770" timestamp="1666080436731" />
-    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1666174565588">
+    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1666692518421">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770@0.0.1280.770" timestamp="1666174565588" />
+    <state x="732" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770@0.0.1280.770" timestamp="1666692518421" />
     <state x="0" y="87" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1659878533112">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="0" y="87" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1280.770@0.0.1280.770" timestamp="1659878533112" />
-    <state width="638" height="144" key="GridCell.Tab.0.bottom" timestamp="1666175356908">
+    <state width="638" height="94" key="GridCell.Tab.0.bottom" timestamp="1666692664136">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="144" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1666175356908" />
-    <state width="638" height="144" key="GridCell.Tab.0.center" timestamp="1666175356908">
+    <state width="638" height="94" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1666692664136" />
+    <state width="638" height="94" key="GridCell.Tab.0.center" timestamp="1666692664134">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="144" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1666175356908" />
-    <state width="638" height="144" key="GridCell.Tab.0.left" timestamp="1666175356907">
+    <state width="638" height="94" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1666692664134" />
+    <state width="638" height="94" key="GridCell.Tab.0.left" timestamp="1666692664133">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="144" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1666175356907" />
-    <state width="638" height="144" key="GridCell.Tab.0.right" timestamp="1666175356908">
+    <state width="638" height="94" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1666692664133" />
+    <state width="638" height="94" key="GridCell.Tab.0.right" timestamp="1666692664135">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="638" height="144" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1666175356908" />
+    <state width="638" height="94" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1666692664135" />
     <state width="668" height="141" key="GridCell.Tab.1.bottom" timestamp="1659695405543">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -280,21 +285,21 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state width="668" height="141" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1659695405543" />
-    <state x="284" y="0" width="996" height="770" key="SettingsEditor" timestamp="1666080460703">
+    <state x="284" y="0" width="996" height="770" key="SettingsEditor" timestamp="1666249238881">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="284" y="0" width="996" height="770" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1666080460703" />
-    <state x="647" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1666174328935">
+    <state x="284" y="0" width="996" height="770" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1666249238881" />
+    <state x="647" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1666687560523">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="647" y="289" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1666174328935" />
+    <state x="647" y="289" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1666687560523" />
     <state x="678" y="310" width="496" height="365" key="dock-window-1" timestamp="1666166875067">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="678" y="310" width="496" height="365" key="dock-window-1/0.0.1280.770@0.0.1280.770" timestamp="1666166875067" />
-    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1666166468572">
+    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup" timestamp="1666438094029">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1666166468572" />
+    <state x="572" y="92" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1666438094029" />
   </component>
 </project>
