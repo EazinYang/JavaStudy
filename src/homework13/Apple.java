@@ -12,4 +12,13 @@ public class Apple {
     public int getSize() {
         return size;
     }
+
+    public String getColour() {
+        return colour;
+    }
+
+    @Override
+    public String toString() {
+        return "Apple{" + "size=" + size + ", colour='" + colour + '\'' + '}';
+    }
 }

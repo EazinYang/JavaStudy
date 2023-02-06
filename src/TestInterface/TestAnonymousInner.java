@@ -29,14 +29,14 @@ public class TestAnonymousInner {
 //                Circle c1=(Circle)o;
 //                Circle c2=(Circle)t1;
 //                if(c1.getRadius()>c2.getRadius()){
-//                    return 1;
+//                    return 1.txt;
 //                }else if(c1.getRadius()<c2.getRadius()){
-//                    return -1;
+//                    return -1.txt;
 //                }
 //                return 0;
 //            }
 //        };
-//        System.out.println(c.compare(new Circle(1),new Circle(2)));
+//        System.out.println(c.compare(new Circle(1.txt),new Circle(2)));
 
         Circle[] all=new Circle[3];
         all[0]=new Circle(3);

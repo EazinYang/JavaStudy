@@ -13,7 +13,7 @@ public class FamilyAccount {
             System.out.println("\t\t\t\t\t3登记支出");
             System.out.println("\t\t\t\t\t4退出");
             System.out.println();
-            System.out.print("\t\t\t\t\t请选择(1-4)：");
+            System.out.print("\t\t\t\t\t请选择(1.txt-4)：");
             java.util.Scanner input=new java.util.Scanner(System.in);
             int options=input.nextInt();
             switch (options){

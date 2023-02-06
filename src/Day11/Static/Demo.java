@@ -2,7 +2,7 @@ package Day11.Static;
 
 class DemoFu {
     {
-        System.out.println("(1)Demo的非静态代码块1");
+        System.out.println("(1.txt)Demo的非静态代码块1");
     }
     static{
         System.out.println("(2)Demo的静态代码块2");

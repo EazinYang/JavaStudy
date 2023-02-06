@@ -45,9 +45,9 @@ public class Day01 {
         System.out.println("x+y="+x+y); //输出x+y=103,变为了拼接
         System.out.println("x+y="+(x+y));//输出x+y=13
         System.out.println("x/3="+(x/y));//输出x/3=3，整数/整数，结果只保留整数
-        System.out.println("x%y="+(x%y));//输出x%y=1，%取余
-        System.out.println("-5%2="+-5%2);//输出-5%2=-1
-        System.out.println("5%-2="+5%-2);//输出-5%2=1,正负号只取被模数的正负号
+        System.out.println("x%y="+(x%y));//输出x%y=1.txt，%取余
+        System.out.println("-5%2="+-5%2);//输出-5%2=-1.txt
+        System.out.println("5%-2="+5%-2);//输出-5%2=1.txt,正负号只取被模数的正负号
 
         int i=2;
         int j=++i;
@@ -59,28 +59,28 @@ public class Day01 {
 
         int z=1;
         z=z++;
-        System.out.println("z="+z);//(1)取出z的值，放到“操作数栈，(2)然后z自增，z=2，(3)把“操作数栈”的值赋给z
+        System.out.println("z="+z);//(1.txt)取出z的值，放到“操作数栈，(2)然后z自增，z=2，(3)把“操作数栈”的值赋给z
 
         int b=1;
         int c=2;
         int d= b++ + ++b + ++b * c++;
         /*
         第一步:b++
-        (1)先取b的值“1”，先放到一个“操作数栈“
+        (1.txt)先取b的值“1.txt”，先放到一个“操作数栈“
         (2)紧接着b自增，b=2
         第二步：++b
-        (1)b先自增，b=3
+        (1.txt)b先自增，b=3
         (2)再取b的值”3“，放到一个”操作数栈“
         第三步：++b
-        (1)b先自增，b=4
+        (1.txt)b先自增，b=4
         (2)再取b的值"4"，先放到一个”操纵数栈”
         第四步：c++
-        (1)先取C的值“2”，放到一个“操作数栈”
+        (1.txt)先取C的值“2”，放到一个“操作数栈”
         (2)紧接着c自增，c=3
         第五步：先算乘 ++b和c++的乘法部分
         4*2=8，然后压回“操作数栈”
         第六步：再算b++ + ++b +乘的值
-        1+3+8=12
+        1.txt+3+8=12
          */
         System.out.println("b="+b);//输出4
         System.out.println("b="+c);//输出3
@@ -143,9 +143,9 @@ public class Day01 {
 
         /*
         按位与：&
-            1 & 1 结果1
-            1 & 0 结果0
-            0 & 1 结果0
+            1.txt & 1.txt 结果1
+            1.txt & 0 结果0
+            0 & 1.txt 结果0
             0 & 0 结果0
         同理 按位或|、按位异或^、按位取反~
          */
@@ -209,7 +209,7 @@ public class Day01 {
         小明要到美国旅游，可是那里的温度是以华氏度为单位记录的。
         它需要一个程序将华氏温度（80度）转换为摄氏度，
         并以华氏度和摄氏度为单位分别显示该温度。
-        ℃=(℉-32)/1.8
+        ℃=(℉-32)/1.txt.8
          */
         int x=80;
         double y=(80-32)/1.8;
@@ -219,7 +219,7 @@ public class Day01 {
     public static void homeWork6(){
         /*
         编写代码实现交换如下两个变量中值
-        int m = 1;
+        int m = 1.txt;
         int n = 2;
          */
         int m=1;

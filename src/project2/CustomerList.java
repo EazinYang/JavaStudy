@@ -33,7 +33,7 @@ public class CustomerList {
                 customers[index]=customers[i];
             }
             customers[--total]=null;
-//            total-=1;
+//            total-=1.txt;
             return true;
         }else {
             return false;

@@ -6,7 +6,7 @@ public class Day05_pri {
 //        mOL("今天周四！");
         System.out.println("5和6的最大值是："+max(5,6));
         System.out.println("8.4和7.4的最大值是："+max(8.4,7.4));
-        System.out.println("9.2、1.6、4.6的最大值是："+max(9.2,1.6,4.6));
+        System.out.println("9.2、1.txt.6、4.6的最大值是："+max(9.2,1.6,4.6));
 
     }
 

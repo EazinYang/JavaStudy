@@ -18,7 +18,7 @@ public class CustomerView {
         System.out.println("\t\t\t\t\t\t\t\t 3删除客户");
         System.out.println("\t\t\t\t\t\t\t\t 4客户列表");
         System.out.println("\t\t\t\t\t\t\t\t 5退\t出");
-        System.out.print("请选择(1-5)：");
+        System.out.print("请选择(1.txt-5)：");
         java.util.Scanner input=new java.util.Scanner(System.in);
         int number=input.nextInt();
         switch (number){
